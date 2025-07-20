@@ -448,7 +448,7 @@
             </p>
             <button class="bg-orange-500 hover:bg-orange-600 text-white font-bold py-3 px-8 rounded-full transition">
                 Junte-se ao movimento
-            </button>
+            </button><a href="https://wa.me/5522988273669" class="flex items-center">
         </div>
     </section>
 
@@ -495,7 +495,7 @@
                 </div>
             </div>
             <div class="border-t border-gray-700 mt-8 pt-8 text-center text-gray-400">
-                <p>© 2023 Conexão Técnica. Todos os direitos reservados.</p>
+                <p>© 2025 Conexão Técnica. Todos os direitos reservados.</p>
             </div>
         </div>
     </footer>
