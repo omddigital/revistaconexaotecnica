@@ -448,8 +448,9 @@
             </p>
             <button class="bg-orange-500 hover:bg-orange-600 text-white font-bold py-3 px-8 rounded-full transition">
                 Junte-se ao movimento
-           <a href="https://wa.me/5522988273669" class="flex items-center">
-    <button>Enviar Mensagem no WhatsApp</button>
+  <a href="https://wa.me/5522988273669" class="flex items-center">
+  Enviar Mensagem no WhatsApp
+</a>
         </div>
     </section>
 
